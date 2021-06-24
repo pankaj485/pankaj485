@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **Web Developement , Designing**
 
-- 👯 I’m looking to collaborate **with other Developers**
+- 👨‍💻 <b> Visit my recent project </b>  [here](https://covid-tracker-pank.netlify.app/)
 
-- 👨‍💻 All of my projects are available [here](https://github.com/pankaj485?tab=repositories)
+- 👯 I’m looking to collaborate **with other Developers**
 
 - 💬 Ask me about **Web Developement and Design**
 
