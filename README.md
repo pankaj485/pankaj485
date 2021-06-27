@@ -8,10 +8,6 @@
 
 - 👨‍💻 <b> Visit my recent project </b>  [here](https://covid-tracker-pank.netlify.app/)
 
-- 👯 I’m looking to collaborate **with other Developers**
-
-- 💬 Ask me about **Web Developement and Design**
-
 - 📫 How to reach me **pankajsamar2@gmail.com**
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h3 align="left"> Connect with me:  </h3>
