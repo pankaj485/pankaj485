@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Website Testing**
 
-- 💬 Ask me about Web Developement, UI/UX design, Automation Testing
+- 💬 Ask me about **Web Developement, UI/UX design, Automation Testing**
 
 - 👨‍💻 <b> Visit my recent project </b>  [here](https://covid-tracker-pank.netlify.app/)
 
