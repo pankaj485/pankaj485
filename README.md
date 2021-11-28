@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Website Testing**
 
+- 💬 Ask me about Web Developement, UI/UX design, Automation Testing
+
 - 👨‍💻 <b> Visit my recent project </b>  [here](https://covid-tracker-pank.netlify.app/)
 
 - 📫 How to reach me **pankajsamar2@gmail.com**
