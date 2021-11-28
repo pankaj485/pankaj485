@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankaj485&label=Profile%20views&color=0e75b6&style=flat" alt="pankaj485" /> </p>
 
-- 🌱 I’m currently learning **Automation Testing**
+- 🌱 I’m currently learning **Website Testing**
 
 - 👨‍💻 <b> Visit my recent project </b>  [here](https://covid-tracker-pank.netlify.app/)
 
