@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Pankaj Thapaliya</h1>
-<h3 align="center">A passionate Developer from Nepal !!</h3>
+<h3 align="center">MERN & MEAN Stack Developer | Cloud & DevOps Enthusiast | UI/UX Design Proficient</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankaj485&label=Profile%20views&color=0e75b6&style=flat" alt="pankaj485" /> </p>
 
